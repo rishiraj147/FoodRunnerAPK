@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/drawable-anydpi/ic_favorite.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/drawable-anydpi/ic_home.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/drawable-anydpi/ic_lock.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/drawable-anydpi/ic_order_placed.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/drawable-anydpi/ic_phone.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/drawable-mdpi/rounded_corner.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/drawable-xxhdpi/ic_baseline_favorite_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/drawable/gradient.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/drawable/ic_lock.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/layout/activity_cart.xml" value="0.22" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/layout/activity_forgot.xml" value="0.22" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/layout/activity_log_in.xml" value="0.25" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/layout/activity_main.xml" value="0.11775362318840579" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/layout/activity_registration.xml" value="0.22" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/layout/activity_reset.xml" value="0.25" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/layout/activity_restaurant_menu.xml" value="0.33" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/layout/drawer_header.xml" value="0.18" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/layout/fragment_faqs.xml" value="0.2" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/layout/fragment_favorite.xml" value="0.25" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/layout/fragment_my_profile.xml" value="0.22" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/layout/fragment_order_history.xml" value="0.22" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/layout/fragment_restaurants.xml" value="0.25" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/layout/order_placed_dialog.xml" value="0.2" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/layout/recycler_cart_single_row.xml" value="0.25" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/layout/recycler_cart_single_view.xml" value="0.22" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/layout/recycler_favorite_single_row.xml" value="0.22" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/layout/recycler_home_single_row.xml" value="0.2" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/layout/recycler_order_history_single_row.xml" value="0.25" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/layout/recycler_restaurant_menu_single_row.xml" value="0.25" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/menu/menu_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/menu/menu_restaurant_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/mipmap-anydpi-v26/food_runner_app_icon.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/Rishi Kumar/AndroidStudioProjects/FoodRunnerAPK/app/src/main/res/xml/network_security_config.xml" value="0.10778985507246377" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

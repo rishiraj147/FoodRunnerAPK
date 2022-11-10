@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">FoodRunnerAPK</string>
+    <string name="mobile_number">Mobile Number (10 digits)</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="preference_file_name">RegistrationDetails</string>
+    <string name="register">Register</string>
+    <string name="register_name">Name (Min. 3 characters)</string>
+    <string name="email_address">Email Address</string>
+    <string name="mobile_number_10_digits">Mobile Number (10 digits)</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="password_min_3_characters">Password (Min. 4 characters)</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password_desc">Enter your registered mobile number and email below:</string>
+    <string name="next">Next</string>
+    <string name="home">Home</string>
+    <string name="my_profile">My Profile</string>
+    <string name="favorite_restaurants">Favorite Restaurants</string>
+    <string name="faqs">FAQs</string>
+    <string name="log_out">Log out</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="per_person">%1$s/person</string>
+    <string name="order_history">Order History</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="resetDesc">Enter the received OTP Below:</string>
+    <string name="OTP">OTP (4 characters)</string>
+    <string name="reset_password">New Password (Min. 4 characters)</string>
+    <string name="submit">Submit</string>
+    <string name="chooseMenu">Choose from menu listed below: </string>
+    <string name="proceed_to_cart">Proceed To Cart</string>
+    <string name="restaurant_menu_fetch_link">http://13.235.250.119/v2/restaurants/fetch_result/%1$s</string>
+    <string name="dish_price">Rs.%1$s</string>
+    <string name="Ordering">Ordering From:</string>
+    <string name="order_place">Place Order(Total: Rs.%1$d)</string>
+    <string name="PreviousOrder">Your previous orders are listed below:</string>
+
+    <string name="mobileNo">+91 %1$s</string>
+
+    <string name="FAQ1">Q.1 What is The Food Runners?</string>
+    <string name="FAQ1Ans">A.1 The Food Runners is a restaurant marketing company.
+        We provide a platform for restaurants to connect with customers and delivery professionals.
+        We offer companies and customers some of Orange County’s best restaurants delivered by the most professional delivery drivers.
+        We only partner with restaurants providing excellent food and great selection,
+        and we only contract with drivers that take their
+        business seriously to provide an unparalleled experience.</string>
+    <string name="FAQ2">Q.2 Can coronavirus spread through food, including refrigerated or frozen food?</string>
+    <string name="FAQ2Ans">A.2 Although we are not experts in epidemiology and COVID-19, we look to experts for guidance and refer to the information provided by them. And according to the CDC, “Coronaviruses are generally thought to be spread from person-to-person through respiratory droplets. Currently there is no evidence to support transmission of COVID-19 associated with food.</string>
+    <string name="FAQ3">Q.3 Do you offer contact-free delivery?</string>
+    <string name="FAQ3Ans">A.3 Sure! We can provide contact-free delivery. We have a field so you can “Add Instruction for Driver” on the checkout page before placing your order. This allows you to notify your driver on specific instructions for your delivery. You can also call in and a friendly customer service representative can add any specific instructions for your driver.</string>
+    <string name="FAQ4">Q.4 Can I edit an order?</string>
+    <string name="FAQ4Ans">A.4 Yes, with certain exceptions. If you would like to make a change to an existing order, please call Customer Service and we will gladly make any changes to your order! However, we may not be able to make changes requested less than 3 hours prior to the scheduled delivery time.</string>
+
+    <string name="FAQ5">Q.5 Can I get discount for big orders?</string>
+    <string name="FAQ5Ans">Sorry, as a practice we do not give discounts as we work on very slim margins, already.But, we could check with the Restaurant and IF they offer any special discount, we would be happy to pass it on to you!</string>
+    <string name="search_restaurants">Search Restaurants</string>
+
+
+</resources>

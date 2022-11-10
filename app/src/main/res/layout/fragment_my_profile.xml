@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragment.MyProfileFragment"
+    >
+    <androidx.cardview.widget.CardView
+        android:id="@+id/imgApkLogo"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        app:cardCornerRadius="40dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/icon_logo"
+        android:layout_centerHorizontal="true"
+        >
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/icon_logo"
+
+            />
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imgApkLogo"
+        app:cardCornerRadius="20dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_centerHorizontal="true"
+        android:backgroundTint="#14e48c"
+
+        >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    <TextView
+        android:id="@+id/txtName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rishi Kumar"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:padding="20dp"
+        android:textColor="#000000"
+        />
+    <TextView
+        android:id="@+id/txtMobile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="***********"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:padding="20dp"
+        android:textColor="#000000"
+        />
+
+        <TextView
+            android:id="@+id/txtEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="***********"
+            android:textSize="18sp"
+            android:gravity="center"
+            android:padding="20dp"
+            android:textColor="#000000"
+            />
+        <TextView
+            android:id="@+id/txtAddress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="***********"
+            android:textSize="18sp"
+            android:gravity="center"
+            android:padding="20dp"
+            android:textColor="#000000"
+            />
+
+    </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+
+</RelativeLayout>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.FaqsFragment">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <TextView
+            android:id="@+id/txtFAQ1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/FAQ1"
+            android:textSize="18sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="15dp"
+            android:textStyle="bold"
+            android:textColor="#1C742B"
+            />
+
+        <TextView
+            android:id="@+id/txtFAQ1Ans"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtFAQ1"
+            android:text="@string/FAQ1Ans"
+            android:textSize="18sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginEnd="15dp"
+            />
+
+        <View
+            android:id="@+id/view1"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@+id/txtFAQ1Ans"
+            android:background="#AD9E9E"
+            android:layout_marginTop="15dp"
+            />
+
+        <TextView
+            android:id="@+id/txtFAQ2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/FAQ2"
+            android:textStyle="bold"
+            android:textColor="#1C742B"
+            android:textSize="18sp"
+            android:layout_below="@+id/view1"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="15dp"
+            />
+
+        <TextView
+            android:id="@+id/txtFAQ2Ans"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtFAQ2"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginEnd="15dp"
+            android:text="@string/FAQ2Ans"
+            android:textSize="18sp" />
+
+        <View
+            android:id="@+id/view2"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@+id/txtFAQ2Ans"
+            android:background="#AD9E9E"
+            android:layout_marginTop="15dp"
+            />
+
+        <TextView
+            android:id="@+id/txtFAQ3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/FAQ3"
+            android:textStyle="bold"
+            android:textColor="#1C742B"
+            android:textSize="18sp"
+            android:layout_below="@+id/view2"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="15dp"
+            />
+
+        <TextView
+            android:id="@+id/txtFAQ3Ans"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtFAQ3"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginEnd="15dp"
+            android:text="@string/FAQ3Ans"
+            android:textSize="18sp" />
+
+        <View
+            android:id="@+id/view3"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@+id/txtFAQ3Ans"
+            android:background="#AD9E9E"
+            android:layout_marginTop="15dp"
+            />
+
+        <TextView
+            android:id="@+id/txtFAQ4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/FAQ4"
+            android:textStyle="bold"
+            android:textColor="#1C742B"
+            android:textSize="18sp"
+            android:layout_below="@+id/view3"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="15dp"
+            />
+
+        <TextView
+            android:id="@+id/txtFAQ4Ans"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtFAQ4"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginEnd="15dp"
+            android:text="@string/FAQ4Ans"
+            android:textSize="18sp" />
+
+        <View
+            android:id="@+id/view4"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@+id/txtFAQ4Ans"
+            android:background="#AD9E9E"
+            android:layout_marginTop="15dp"
+            />
+
+        <TextView
+            android:id="@+id/txtFAQ5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/FAQ5"
+            android:textStyle="bold"
+            android:textColor="#1C742B"
+            android:textSize="18sp"
+            android:layout_below="@+id/view4"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="15dp"
+            />
+
+        <TextView
+            android:id="@+id/txtFAQ5Ans"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/txtFAQ5"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginEnd="15dp"
+            android:text="@string/FAQ5Ans"
+            android:textSize="18sp"
+            android:layout_marginBottom="80dp"
+          />
+
+    </RelativeLayout>
+
+
+
+</ScrollView>
